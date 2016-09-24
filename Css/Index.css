@@ -1,0 +1,161 @@
+#container{
+  position:absolute;
+   height:100%;
+  width:100%;
+  display:block;
+  background:#EBEBEB;
+}
+a{
+
+ text-decoration:none;
+ color:black;
+}
+#header-wrapper{
+  height:20%;
+  width:100%;
+  display:block;
+  background:#e1f0fe;
+  display:block;
+}
+
+#header-wrapper-inner{
+  height:100%;
+  width:90%;
+  background:#e1f0fe;
+  margin-left:5%;
+  float:left;
+}
+#header {
+  height:60%;
+  width:100%;
+  background:;
+  margin-top:3%;
+}
+#logo {
+  width:30%;
+  height:100%;
+  background:#EBEBEB;
+  font-family:'Raleway';
+  float:left;
+}
+#responsive-nav {
+  height:100%;
+  width:50%;
+  background:#EBEBEB;
+  float:right;
+}
+#banner {
+  display:block;
+  height:80%;
+  width:90%;
+  background-image:url('http://res.cloudinary.com/pacog2q/image/upload/v1474235658/Banner_Darker_fsix4b.jpg');
+  background-size:cover;
+  background-repeat:no-repeat;
+  margin-left:5%;
+  
+}
+#banner-wrapper{
+  width:100%;
+  height:auto;
+}
+#banner-heading{
+  font-weight:normal;
+  width:80%;
+  font-size:1.25em;
+  font-family: 'Raleway', Arial, sans-serif;
+  line-height:100px;
+  color:white;
+  padding-top:2%;
+margin-left:20%;
+  margin-top:2%;
+}
+#banner-heading h1{
+  font-weight:normal;
+}
+#container-body{
+  height:auto;
+  display:block;
+  width:100%;
+}
+#container-border{
+  width: 90%;
+  height:100%;
+  margin-left:5%;
+  margin-top:2%;
+  border-top:solid;
+  float:left;
+  border-bottom:solid;
+  background:#e1f0fe;
+  display:block;
+}
+#container-content{
+  width:100%;
+  height:auto;
+  background:;
+  margin-top:3%;
+  display:block;
+  
+}
+#container-content h1 {
+  font-weight:normal;
+  font-color:#3b3b3b;
+  text-align:center;
+  font-family:Railway;
+    font-size: 2.5em;
+}
+#container-content p {
+  line-height:60px;
+  margin-left:10%;
+  margin-right:10%;
+  font-size:1.25em;
+  font-family:'Raleway';
+  text-align:center;
+  
+}
+#container-content img{
+  margin-left:14%;
+  
+    border-radius:10%;
+}
+#image-jQuery{
+  height:10%;
+  width:10%;
+}
+#footer{
+  display:block;
+  height:20%;
+  width:100%;
+  background:#1b1b1b	;
+}
+ul{
+  margin-top:5%;
+}
+li{
+  display:inline;
+  list-style-type:none;
+  font-family:'Raleway';
+  font-size:1em;
+  font-weight:400;
+  padding:30px; 
+}
+li:hover{
+  background:#87CEFA;
+  
+}
+#logo:hover{
+  background:#87CEFA;
+}
+#above-div{
+  display:block;
+}
+@media screen and (max-width:600px){
+  h1 {
+    font-size:10px;
+  }
+  li{
+    padding:10px;
+    font-size:15px;
+    float:left;
+    margin:0;
+  }
+}

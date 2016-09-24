@@ -1,0 +1,316 @@
+div {
+  border:soli;
+  display:block;
+}
+a{
+
+ text-decoration:none;
+ color:White;
+}
+h1 {
+  text-align:center;
+  
+  font-family:sans-serif;
+  font-size:100px;
+  color:white;
+}
+ul{
+  
+  display:inline-block;
+  
+  
+  float:;
+  font-size:2em;
+  font-family:Raleway;
+  color:white;
+}
+li {
+  list-style-type:none;
+  display:inline;
+  padding-right:2em
+}
+p{
+  font-size:70px;
+  text-align:center;
+}
+#first-half {
+  background:brown;
+}
+#second-half{
+  background:;
+} 
+#p{
+  font-size:20px;
+  text-align:center;
+  margin-right:20%;
+  margin-left:20%;
+  color:white;
+  font-family:Raleway;
+  font-weight:100;
+  line-height:100px;
+}
+span{
+   text-decoration:underline;
+}
+.left {
+  display:inline-block;
+    
+  height:100%;
+  margin-left:8%;
+  float:left;
+}
+.middle{
+  display:inline-block;
+  font-size:15px;
+  float:left;
+  margin-left:6%;
+  width:40%
+}
+.middle p {
+  font-size:20px;
+  font-family:Raleway;
+  line-height:40px;
+  margin-top:-5%;
+  color:black;
+}
+.right {
+  display:inline-block;
+  float:right;
+  font-size:2em;
+  margin-right:-1%;
+  width:30%;
+}
+.top {
+  margin-top:-7%
+}
+.clear {
+  clear:both;
+  
+}
+.clear p {
+  font-size:10px;
+}
+#container{
+  position:relative;
+}
+#fun-fact-1 {
+  background:white;
+  
+  text-align:center;
+}
+#second {
+  background:	#007FFF	 ;
+  font-size:20px;
+}
+#second  {
+  background:		#6B329	 ;
+  font-size:20px;
+}
+#front-end{
+  width:50%;
+}
+.front{
+  width:30%;
+  margin-left:10%;
+}
+.icons{
+ display:inline-block;
+marign-left:15%;
+  text-align:center;
+}
+#magni-icon{
+  display:inline-block;
+  width:44%;
+}
+#fun-fact-3{
+  background:white;
+  position:relative;
+ 
+  
+}
+.in{
+  display:inline-block;
+  border:sold;
+float:
+}
+.leftt{
+  float:;
+}
+.clear{
+  clear:both;
+}
+#fun-fact-4{
+  background:brown;
+}
+#fun-fact-2-img{
+  display:inline-block;
+  border:;
+  border-radius:5%;
+  float:left;
+  margin:5% 5% 2% 4%;
+  box-shadow:
+
+}
+#ff4-img{
+  background:;
+  width:100%;
+}
+.text{
+  font-size:20px;
+  line-height:70px;
+  font-family:raleway;
+  border:slid;
+  margin-right:18%;
+  margin-left:35%;
+  height:50%;
+  text-align:center;
+  color:white;
+  
+}
+#three-one{
+  width:27%;
+  display:inline-block;
+  ;
+  float:;
+}
+#three-two{
+  width:25%;
+  display:inline;
+  background:;
+  float:left;
+  
+}
+#fitness-icons{
+  width:45%;
+  display:inline;
+  float:left;
+}
+#fitness-barbell{
+  width:45%;
+  float:right;
+  
+}
+.text1{
+  background:;
+  display:inline-block;
+  font-size:20px;
+  border:solid;
+}
+#midddle{
+  display:inline;
+  
+}
+#ending{
+  
+  font-family:raleway;
+  background-image:url('http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/10/Long-Road-HD-Wallpapers-Desktop-1024x576.jpg');
+  background-repeat:no-repeat;
+    background-size:100% 100%;
+  background-attachment:fixed;
+  color:white;
+  margin-top:5%;
+}
+#ending-header{
+  
+  background:black;
+  opacity:.5;
+  display:inline-block;
+  margin-left:42.5%;
+  margin-top:5%;
+  border:solid;
+  font-size:20px;
+  font-family:raleway;
+}
+#ending-header h1{
+  font-size:1.5em;
+}
+.ending-texts{
+  font-size:30px;
+  border:solid;
+  display:inline-block;
+margin-left:40%;
+  line-height:70px;
+  background:black;
+  opacity:.5;
+}
+.ending-textss{
+   background:black;
+  opacity:.5;
+  font-size:30px;
+  display:block;
+  width:50%;
+  margin-left: 25%;
+  border:solid;
+  line-height:80px;
+}
+button{
+  background:black;
+  opacity:.5;
+  margin-left:42%;
+  padding:30px;
+  font-size:30px;
+  margin-bottom:25%;;
+    color:white;
+}
+.end:hover{
+  opacity:.9
+}
+button:hover{
+  opacity:.9;
+}
+#ending-header:hover{
+  opacity:.7;
+}
+li:hover {
+  text-decoration:underline;
+  padding:px;  
+}
+
+#first-half{
+  margin-top:-2.24%;
+}
+#ending{
+  margin-top:-.1%;
+}
+h1:hover{
+  text-decoration:underline;
+}
+@media screen and (max-width:680px){
+  #p{
+    line-height:40px;
+    margin-left:5%;
+    margin-right:5%;
+  }
+  h1 {
+    font-size:60px;
+  }
+  .icons{
+    width:50%;
+  }
+  .text{
+    line-height:40px;
+    margin:0;
+  }
+  .end {
+    font-size:30px;
+  }
+  li{
+    padding-right:40px;
+  }
+  #right-person{
+    display:none;
+  }
+  .middle {
+    margin:0;
+    width:100%;
+    margin-top:10%;
+    
+  }
+  .end{
+    font-size:15px;
+    line-height:40px;
+    
+  }
+}
+  
+  }
